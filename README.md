@@ -43,4 +43,4 @@ url={https://openreview.net/forum?id=kXHEBK9uAY}
 ```
 
 ## Acknowledgements
-This code is based on Michael Janner's [Diffuser](https://github.com/jannerm/diffuser) repo. We thank the authors for their great works!
+This code is based on Michael Janner's [Diffuser](https://github.com/jannerm/diffuser) and Zhendong Wang's [DQL](https://github.com/Zhendong-Wang/Diffusion-Policies-for-Offline-RL) repo. We thank the authors for their great works!
