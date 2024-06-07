@@ -7,20 +7,20 @@ Abstract: Despite the recent advancements in offline RL, no unified algorithm co
 
 ### AntMaze-Ultra
 <p float="left">
-<img src="https://github.com/changchencc/PlanDQ/blob/antmaze/videos/antmaze_ultra/ultra_sample_1.gif" height="250"/>
-<img src="https://github.com/changchencc/PlanDQ/blob/antmaze/videos/antmaze_ultra/ultra_sample_2.gif" height="250" />
+<img src="https://github.com/changchencc/PlanDQ/blob/antmaze/videos/antmaze_ultra/ultra_sample_1.gif" height="250" width="250"/>
+<img src="https://github.com/changchencc/PlanDQ/blob/antmaze/videos/antmaze_ultra/ultra_sample_2.gif" height="250" width="250"/>
 </p>
 
 ### AntMaze-Large
 <p float="left">
-<img src="https://github.com/changchencc/PlanDQ/blob/antmaze/videos/antmaze_large/large_sample_1.gif"  height="250" />
-<img src="https://github.com/changchencc/PlanDQ/blob/antmaze/videos/antmaze_large/large_sample_2.gif"  height="250"/>
+<img src="https://github.com/changchencc/PlanDQ/blob/antmaze/videos/antmaze_large/large_sample_1.gif"  height="250" width="250"/>
+<img src="https://github.com/changchencc/PlanDQ/blob/antmaze/videos/antmaze_large/large_sample_2.gif"  height="250" width="250"/>
 </p>
 
 ### AntMaze-Medium
 <p float="left">
-<img src="https://github.com/changchencc/PlanDQ/blob/antmaze/videos/antmaze_medium/medium_sample_1.gif" height="250" />
-<img src="https://github.com/changchencc/PlanDQ/blob/antmaze/videos/antmaze_medium/medium_sample_2.gif"  height="250"/>
+<img src="https://github.com/changchencc/PlanDQ/blob/antmaze/videos/antmaze_medium/medium_sample_1.gif" height="250" width="250"/>
+<img src="https://github.com/changchencc/PlanDQ/blob/antmaze/videos/antmaze_medium/medium_sample_2.gif"  height="250" width="250"/>
 </p>
 
 
