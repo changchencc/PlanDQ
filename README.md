@@ -3,6 +3,9 @@ Chang Chen, Junyeob Baek, Fei Deng, Kenji Kawaguchi, Caglar Gulcehre, Sungjin Ah
 
 Abstract: Despite the recent advancements in offline RL, no unified algorithm could achieve superior performance across a broad range of tasks. Offline value function learning, in particular, struggles with sparse-reward, long-horizon tasks due to the difficulty of solving credit assignment and extrapolation errors that accumulates as the horizon of the task grows. On the other hand, models that can perform well in long-horizon tasks are designed specifically for goal-conditioned tasks, which commonly perform worse than value function learning methods on short-horizon, dense-reward scenarios. To bridge this gap, we propose a hierarchical planner designed for offline RL called PlanDQ. PlanDQ incorporates a diffusion-based planner at the high level, named D-Conductor, which guides the low-level policy through sub-goals. At the low level, we used a Q-learning based approach called the Q-Performer to accomplish these sub-goals. Our experimental results suggest that PlanDQ can achieve superior or competitive performance on D4RL continuous control benchmark tasks as well as AntMaze, Kitchen, and Calvin as long-horizon tasks.
 
+
+<img src="https://github.com/changchencc/PlanDQ/assets/22546741/af3a1709-6ac1-4551-bd76-b4ea4a194a80" height="300" width="600"/>
+
 ## AntMaze Videos
 
 ### AntMaze-Ultra
