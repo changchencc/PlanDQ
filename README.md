@@ -54,12 +54,12 @@ python main_Antmaze.py --dataset antmaze-ultra-diverse-v0
 ## Citation
 ```
 @inproceedings{
-chen2024simple,
-title={Simple Hierarchical Planning with Diffusion},
-author={Chang Chen and Fei Deng and Kenji Kawaguchi and Caglar Gulcehre and Sungjin Ahn},
-booktitle={The Twelfth International Conference on Learning Representations},
+anonymous2024plandq,
+title={Plan{DQ}: Hierarchical Plan Orchestration via D-Conductor and Q-Performer},
+author={Anonymous},
+booktitle={Forty-first International Conference on Machine Learning},
 year={2024},
-url={https://openreview.net/forum?id=kXHEBK9uAY}
+url={https://openreview.net/forum?id=17ZwoHl65h}
 }
 ```
 
