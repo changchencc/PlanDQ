@@ -22,6 +22,7 @@ The high-level D-Conductor and low-level Q-Performer can be trained in parallel:
 - Train D-Conductor:
 ```
 python scripts/train.py --config config.locomotion_hl --dataset walker2d-medium-v2
+python scripts/train_values.py --config config.locomotion_hl --dataset walker2d-medium-v2
 ```
 - Train Q-Performer:
  ```
